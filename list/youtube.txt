@@ -1,0 +1,142 @@
+// Add your channel name filters below
+// 搞钱两面派
+小岛大浪吹-非正经政经频道
+// 红外宣
+頭條開講
+东方卫视环球交叉点
+星球熱點 - 國的驕傲
+强國觀察
+观察者网
+// 皈依台湾
+魚肉壯壯
+HereComesUU來了
+jubby's channel
+台灣媳婦飄飄
+日本小雅
+诗涵
+Jo裡給給
+我是黨黨
+蕭蕭在台灣
+圓臉麥麥
+上海姑娘在台灣 - 艾嫂
+// 单纯黑
+Bappa Shota
+2.ZeroRin凜
+// 轮子/绿蛙/收钱黑
+張内咸
+世界之最TOP
+打脸新闻联播
+年代向錢看
+Binary
+高手笑
+FHProductionHK
+脑控揭秘
+八炯不辱了
+小麗看一看
+FREE CHINA
+黑幕财经研究所
+我是劉大聖
+韭菜人生
+無聲的吶喊
+猴子不是悟空
+Mr.卡皮扒拉
+柴静 Chai Jing
+说真话的徐某人
+多伦多方脸
+叉雞
+老周横眉
+苗博雅
+另眼看财经
+小翠時政財經
+韭菜張
+蘇裔非
+VS MEDIA Taiwan
+新聞看點 李沐陽
+何新瑶927
+長江研報
+歪。講堂 Y.Talkroom
+Dino Brothers Studio
+章天亮——指月閒談
+汽車大新聞
+如實說
+曙光時分
+鏡新聞
+江峰时刻
+在野說
+中國基層紀實
+《看中國》
+每日中國
+小人物說中國
+中國小人物
+钟文泽
+關鍵時刻
+真實的中國
+真实中國
+窺探家【爆料频道】
+57爆新聞
+文昭談古論今 -Wen Zhao Official
+彼得森
+真觀點
+56BelowTV 零下56
+Surprisebuyer
+一個人TV
+阿豬 Ah Ju
+M仔STORY
+火力就是正義（資訊頻道）
+纪实人间
+窮奢極欲
+Sky game
+mingjai14
+四號倉庫
+A Jie Live
+mrnigelng 官方中文頻道
+mrnigelng
+Peggy Fo Show
+腦洞大開
+詩敏 XiMing
+非正常人類研究中心-大樹院長
+遊戲迷小宗寳
+養坤二廠
+日テレNEWS
+兵器說
+未公开的中国
+薇羽看世間
+94要客訴
+我是RT
+阿貝很全能
+真實中國
+美国之音中文网
+希望之聲TV
+今日華夏
+從台灣看見世界的故事
+小眼看中國
+安後生
+七七叭叭TALK
+DenQ來了
+中國時刻
+小鄭在日本
+memehongkong
+挖系桑米西
+JERSON
+martin oei
+拔絲遞瓜
+洛奇Rocky
+华夏奇闻异事
+蒼藍鴿的醫學天地
+王志安
+真實荒漠
+波特王好帥
+BBC News 中文
+Leonard
+cheap
+誤人子弟
+TODAY 看世界
+The World TODAY
+老高與小茉 Mr & Mrs Gao
+一隻土撥鼠MrMarmot
+攝徒日記Fun TV
+陳老師來了
+LeLe Farley
+錫蘭Ceylan
+錫片
+/.*[(自由)(三立)(翟山)(民視)(悉尼奶爸)(志祺七七)(DW)(中天)(中时)].*/i
